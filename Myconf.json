@@ -177,10 +177,7 @@
     "rules": [
       {
         "inbound": "dns-in",
-        "outbound": "dns-out"
-
-Hesam, [4/17/2024 9:55 AM]
-},
+        "outbound": "dns-out"},
       {
         "port": 53,
         "outbound": "dns-out"
